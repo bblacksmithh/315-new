@@ -1,0 +1,5 @@
+C:\Users\User\Desktop\ChatServer.exe
+C:\Users\User\Desktop\ChatServer.dll
+C:\Users\User\Desktop\ChatServer.deps.json
+C:\Users\User\Desktop\ChatServer.runtimeconfig.json
+C:\Users\User\Desktop\ChatServer.pdb

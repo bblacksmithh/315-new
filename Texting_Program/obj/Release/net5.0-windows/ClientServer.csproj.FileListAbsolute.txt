@@ -1,0 +1,60 @@
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\bin\Release\net5.0-windows\ChatServer.deps.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\bin\Release\net5.0-windows\ChatServer.runtimeconfig.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\bin\Release\net5.0-windows\ChatServer.runtimeconfig.dev.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\bin\Release\net5.0-windows\ChatServer.exe
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\bin\Release\net5.0-windows\ClientServer.exe
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\bin\Release\net5.0-windows\ClientServer.deps.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\bin\Release\net5.0-windows\ClientServer.runtimeconfig.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\bin\Release\net5.0-windows\ClientServer.runtimeconfig.dev.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\bin\Release\net5.0-windows\ClientServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\bin\Release\net5.0-windows\ref\ClientServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\bin\Release\net5.0-windows\ClientServer.pdb
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\bin\Release\net5.0-windows\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\bin\Release\net5.0-windows\ChatServer.pdb
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\ClientServer.csprojAssemblyReference.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\App.g.cs
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\ClientServer_MarkupCompile.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\ClientServer_MarkupCompile.lref
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\MVVM\View\MainWindow.baml
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\ClientServer.g.resources
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\ClientServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\ClientServer.AssemblyInfoInputs.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\ClientServer.AssemblyInfo.cs
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\ClientServer.csproj.CoreCompileInputs.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\ClientServer.csproj.CopyComplete
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\ClientServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\ref\ClientServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\ClientServer.pdb
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\Texting_Program\obj\Release\net5.0-windows\ClientServer.genruntimeconfig.cache
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\bin\Release\net5.0-windows\ChatServer.deps.json
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\bin\Release\net5.0-windows\ChatServer.runtimeconfig.json
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\bin\Release\net5.0-windows\ChatServer.runtimeconfig.dev.json
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\bin\Release\net5.0-windows\ChatServer.exe
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\bin\Release\net5.0-windows\ClientServer.exe
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\bin\Release\net5.0-windows\ClientServer.deps.json
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\bin\Release\net5.0-windows\ClientServer.runtimeconfig.json
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\bin\Release\net5.0-windows\ClientServer.runtimeconfig.dev.json
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\bin\Release\net5.0-windows\ClientServer.dll
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\bin\Release\net5.0-windows\ClientServer.pdb
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\bin\Release\net5.0-windows\ChatServer.dll
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\bin\Release\net5.0-windows\ChatServer.pdb
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\ClientServer.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\MVVM\View\MainWindow.g.cs
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\App.g.cs
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\ClientServer_MarkupCompile.cache
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\ClientServer_MarkupCompile.lref
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\MVVM\View\MainWindow.baml
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\ClientServer.g.resources
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\ClientServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\ClientServer.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\ClientServer.AssemblyInfo.cs
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\ClientServer.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\ClientServer.csproj.CopyComplete
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\ClientServer.dll
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\refint\ClientServer.dll
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\ClientServer.pdb
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\ClientServer.genruntimeconfig.cache
+C:\Users\User\Desktop\ChatApp-main\Texting_Program\obj\Release\net5.0-windows\ref\ClientServer.dll

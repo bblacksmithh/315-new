@@ -1,0 +1,151 @@
+﻿<Window x:Class="Texting_Program.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:Texting_Program" 
+        xmlns:viewModel="clr-namespace:Client.MVVM.ViewModel"
+        mc:Ignorable="d"
+        WindowStyle="ThreeDBorderWindow"
+        Title="MyChat" 
+        Height="500" Width="816"
+        Background="#FF212130"
+        WindowState="Normal">
+
+    <Window.DataContext>
+        <viewModel:MainViewModel/>
+    </Window.DataContext>
+
+    <Grid>
+        <Grid.RowDefinitions>
+        </Grid.RowDefinitions>
+
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width ="200"/>
+        </Grid.ColumnDefinitions>
+
+        <DockPanel Grid.RowSpan="3"
+                   Background="#FF14151F" Margin="0,0,-5,0">
+
+            <Label Height="25"
+                   DockPanel.Dock="Top"
+                   Content="Click below for your IP "
+                   Foreground="Gray"
+                   FontStyle="Oblique"
+                   FontWeight="SemiBold"
+                   FontSize="13"
+                   HorizontalAlignment="Center"
+                   Margin="5"/>
+
+            <Button
+                Name="Chat"        
+                DockPanel.Dock="Top"
+                Content="Create new chat"
+                FontSize="13"
+                FontWeight="SemiBold"
+                Foreground="Black"
+                Height="25" Width="134"
+                Command="{Binding}" Click="Button_Click" />
+
+            <Label Height="25"
+                   DockPanel.Dock="Top"
+                   Foreground="Gray"
+                   FontStyle="Oblique"
+                   FontWeight="SemiBold"
+                   FontSize="13"
+                   HorizontalAlignment="Center"
+                   Margin="5,10,5,0"
+                   Content="Enter desired IP below "/>
+
+            <TextBox Height="25" Width="178"
+                     DockPanel.Dock="Top"
+                     Background="#FFACA3A3"
+                     Foreground="Black"
+                     x:Name="txtHost"
+                     Text= "{Binding IPHost, UpdateSourceTrigger=PropertyChanged}"/>
+
+            <Label Height="25"
+                   DockPanel.Dock="Top"
+                   Foreground="Gray"
+                   FontStyle="Oblique"
+                   FontWeight="SemiBold"
+                   FontSize="13"
+                   HorizontalAlignment="Center"
+                   Margin="5,5,5,0"
+                   Content="Enter Username"/>
+
+            <TextBox Height="25" Width="178"
+                     DockPanel.Dock="Top"
+                     Background="DarkGray"
+                     Foreground="Black"
+                     Margin="5"
+                     Text="{Binding Username, 
+                     UpdateSourceTrigger =PropertyChanged}"/>
+
+            <Button 
+                    Name="Conect"
+                    Height="25" Width="107"
+                    DockPanel.Dock="Top"
+                    Content="Connect"
+                    FontWeight="Bold"
+                    FontSize="14"
+                    Foreground="Black"
+                    Margin="5,2"
+                    Command="{Binding ConnectToServerCommand}" Click="Conect_Click"/>
+
+
+
+
+            <ListView ItemsSource="{Binding Users}" 
+                      Background="#FF424242"
+                      Foreground="LightGray"
+                      FontSize="12"
+                      FontStyle="Normal"
+                      FontWeight="SemiBold"
+                      DockPanel.Dock="Top" 
+                      Height="218" Width="178">
+
+                <ListView.ItemTemplate>
+                    <DataTemplate>
+                        <TextBlock Text="{Binding Username}"/>
+                    </DataTemplate>
+                </ListView.ItemTemplate>
+
+            </ListView>
+        </DockPanel>
+
+        <StackPanel  Margin="205,0,-600,0" 
+                     Grid.Column="1" Width="596">
+
+            <ListView Height="380" Width="580"
+                      Background="Transparent"
+                      Foreground="LightGray"
+                      FontSize="12"
+                      FontWeight="Medium"
+                      FontStyle="Normal"
+                      Margin="0,5,0,0"
+                      ItemsSource="{Binding Messages}"/>
+
+
+            <StackPanel Orientation="Horizontal"
+                        Margin="10,20">
+
+                <TextBox Height="40"
+                         Width="509"
+                         Margin="0,0,18,0"
+                         VerticalContentAlignment="Center"
+					     Text="{Binding Message, UpdateSourceTrigger=PropertyChanged}"/>
+
+                <Button Height ="40" Width="50"
+                        Content="Send"
+                        BorderThickness="4"
+				        Command="{Binding SendMessageCommand}">
+
+                    
+                </Button>
+            </StackPanel>
+        </StackPanel>
+
+
+    </Grid>
+</Window>

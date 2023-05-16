@@ -1,0 +1,112 @@
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\bin\Debug\net5.0\ChatServer.exe
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\bin\Debug\net5.0\ChatServer.deps.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.dev.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\bin\Debug\net5.0\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\bin\Debug\net5.0\ref\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\bin\Debug\net5.0\ChatServer.pdb
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\obj\Debug\net5.0\ChatServer.csprojAssemblyReference.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\obj\Debug\net5.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfo.cs
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\obj\Debug\net5.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\obj\Debug\net5.0\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\obj\Debug\net5.0\ref\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\obj\Debug\net5.0\ChatServer.pdb
+C:\Users\Charles Jnr\Desktop\CMPG 315\Group Prodject\ChatServer\obj\Debug\net5.0\ChatServer.genruntimeconfig.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.exe
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.deps.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.dev.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ref\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.pdb
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.csprojAssemblyReference.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfo.cs
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ref\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.pdb
+C:\Users\Charles Jnr\Desktop\CMPG 315\Git_Repo_rev2\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.genruntimeconfig.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.exe
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.deps.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.dev.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ref\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.pdb
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.csprojAssemblyReference.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfo.cs
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ref\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.pdb
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.exe
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.deps.json
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.dll
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ref\ChatServer.dll
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.pdb
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.dll
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ref\ChatServer.dll
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.pdb
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\Latest_315_Prog\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.exe
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.deps.json
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.dll
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ref\ChatServer.dll
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.pdb
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.dll
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ref\ChatServer.dll
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.pdb
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.genruntimeconfig.cache
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.exe
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.deps.json
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.json
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.dev.json
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.dll
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ref\ChatServer.dll
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.pdb
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.csprojAssemblyReference.cache
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfo.cs
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.dll
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ref\ChatServer.dll
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.pdb
+C:\Users\user\OneDrive\Desktop\CMPG312_Videos\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.genruntimeconfig.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.exe
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.deps.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.runtimeconfig.dev.json
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ref\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\bin\Debug\net5.0\ChatServer.pdb
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.csprojAssemblyReference.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfoInputs.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.AssemblyInfo.cs
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.csproj.CoreCompileInputs.cache
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ref\ChatServer.dll
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.pdb
+C:\Users\Charles Jnr\Desktop\CMPG 315\315_WorkFinal\315_WorkNew (2)\315_WorkNew (1)\315_Work\Git_Repo_rev2\CMPG_315-Textapp_Assignment\ChatServer\obj\Debug\net5.0\ChatServer.genruntimeconfig.cache
